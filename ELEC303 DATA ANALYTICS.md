@@ -8,3 +8,6 @@
 
 [Activity 3](ELEC303-3C/Borabo/Project3.ipynb)
 #Description: Data analytics for Philippine's Dengue Cases
+
+[Assignment](ELEC303-3C/Borabo/Project3.ipynb)
+#Description: Predicting 2024 Data Science Salaries Using Linear Regression
