@@ -1,6 +1,6 @@
 # ITELEC---Data-Analytics
 
-[Activity 1]((https://github.com/jkayekaye/ITELEC---Data-Analytics.git))
+[Activity 1](([https://github.com/jkayekaye/ITELEC---Data-Analytics.git](https://github.com/jkayekaye/ITELEC---Data-Analytics/blob/18454657125165f21466f5ce0ab3eb3941ccc773/ELEC303-3C/Borabo/Activity%201.ipynb)))
 #Description: Data analytics for Palmer Penguins Dataset
 
 [Activity 2](ELEC303-3C/Borabo/Activity2.ipynb)
