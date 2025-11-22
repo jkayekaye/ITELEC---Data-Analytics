@@ -14,3 +14,6 @@
 
 [Handson1](https://github.com/jkayekaye/MIDTERM_HANDSON_EXAM.git)
 #Description:This is a Data Analytics of Crimes happen in Chicago
+
+[Exercise](ELEC303-3C/Borabo/Machine_Learning_Exercise1.ipynb)
+#Description: This is the Exercise about exploring and making predictions
