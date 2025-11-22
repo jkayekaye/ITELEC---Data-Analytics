@@ -17,3 +17,4 @@
 
 [Exercise](ELEC303-3C/Borabo/Machine_Learning_Exercise1.ipynb)
 #Description: This is the Exercise about exploring and making predictions
+(Machine_Learning_Exercise1)
