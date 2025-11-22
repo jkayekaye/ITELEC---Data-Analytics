@@ -12,5 +12,5 @@
 [Assignment](ELEC303-3C/Borabo/Borabo_Assignment.ipynb)
 #Description: Predicting 2024 Data Science Salaries Using Linear Regression
 
-[Assignment](https://github.com/jkayekaye/MIDTERM_HANDSON_EXAM.git)
-#Description: Predicting 2024 Data Science Salaries Using Linear Regression
+[Handson1](https://github.com/jkayekaye/MIDTERM_HANDSON_EXAM.git)
+#Description:This is a Data Analytics of Crimes happen in Chicago
