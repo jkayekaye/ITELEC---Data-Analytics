@@ -12,5 +12,5 @@
 [Assignment](ELEC303-3C/Borabo/Borabo_Assignment.ipynb)
 #Description: Predicting 2024 Data Science Salaries Using Linear Regression
 
-[Assignment]([ELEC303-3C/Borabo/Borabo_Assignment.ipynb](https://github.com/jkayekaye/MIDTERM_HANDSON_EXAM.git))
+[Assignment](https://github.com/jkayekaye/MIDTERM_HANDSON_EXAM.git)
 #Description: Predicting 2024 Data Science Salaries Using Linear Regression
