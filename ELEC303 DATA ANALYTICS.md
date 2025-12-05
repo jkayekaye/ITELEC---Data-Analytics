@@ -19,6 +19,10 @@
 #Description: This is the Exercise about exploring and making predictions
 (Machine_Learning_Exercise1)
 
+[Exercise_2](ELEC303-3C/Borabo/BoraboHousingtrain.ipynb)
+#Description: This is the Exercise about exploring and making predictions using the datasets of Housing_Trains
+(Machine_Learning_Exercise2)
+
 [Activity_4](ELEC303-3C/Borabo/Borabo(Family_Income_and_Expenditure).pbix)
 #Description: DATA ANALYTICS for "Family Income and Expenditure" using Power BI
 
